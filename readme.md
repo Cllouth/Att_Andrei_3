@@ -22,8 +22,6 @@ git clone URL_REPOSITORIO
 cd NOME_REPOSITORIO
 ```
 
-<img src="../assets/cd_projeto.png">
-
 #### Reinstalar os pacotes da aplicação
 ```
 npm i
